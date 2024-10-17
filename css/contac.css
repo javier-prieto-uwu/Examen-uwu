@@ -114,8 +114,9 @@ body{
     display: flex;
     flex-wrap: wrap;
     margin-top: -700px;
-    margin-left: 700px;
+    margin-left: 900px;
     margin-bottom: 200px;
+
 }
 
 @media (max-width: 1200px) {
