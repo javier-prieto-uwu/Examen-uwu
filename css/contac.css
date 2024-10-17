@@ -110,39 +110,6 @@ body{
 
 
 
-.malxd {
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: -700px;
-    margin-left: 900px;
-    margin-bottom: 200px;
-
-}
-
-@media (max-width: 1200px) {
-    .malxd {
-        margin-top: -700px;
-        margin-left: 400px;
-        margin-bottom: 150px;
-    }
-}
-
-@media (max-width: 640px) {
-    .malxd {
-        margin-top: 50px;
-        margin-left: 50px;
-        margin-bottom: 50px;
-    }
-}
-
-@media (max-width: 480px) {
-    .malxd {
-        margin-top: 50px;
-        margin-left: 50px;
-        margin-bottom: 50px;
-    }
-}
-
 
 .form-container{
     background-color: white;
